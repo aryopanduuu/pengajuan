@@ -1,4 +1,4 @@
 # Bisa dibaca dulu
-bisa migrationnya belom update
-pakai db manual 
+bisa migrationnya belom update,
+pakai db manual aja dulu
  
